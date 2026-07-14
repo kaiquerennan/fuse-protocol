@@ -20,29 +20,6 @@ Não há combate. Não há inimigos. Só você, o relógio correndo e a certeza 
 | **Linguagem** | C# |
 | **Classificação** | Não recomendado para menores de 16 anos |
 
----
-
-## 📸 Capturas de tela
-
-### Menu principal
-![Menu principal](screenshots/menu.jpg)
-
-### Gameplay — localizando a bomba
-A iluminação vermelha sinaliza a proximidade do dispositivo. O cronômetro e o contador de erros ficam sempre visíveis.
-
-![Gameplay](screenshots/hud.jpg)
-
-### Mini-puzzle — Sincronizador de Ondas
-Ajuste **frequência** e **amplitude** até sobrepor as duas ondas. Três erros e acabou.
-
-![Puzzle](screenshots/puzzle.jpg)
-
-### Cenário
-Escola em estética *low-poly*, com iluminação dramática guiando o olhar do jogador.
-
-![Cenário](screenshots/corredor.jpg)
-
----
 
 ## 🕹️ Como jogar
 
@@ -165,11 +142,6 @@ Os modelos 3D dos cenários provêm de **assets gratuitos da [Unity Asset Store]
 
 A composição das cenas, o *level design*, a configuração de iluminação, a interface (HUD, menus e o painel do Sincronizador de Ondas) e toda a lógica de jogo são de autoria da equipe.
 
-### Uso de Inteligência Artificial
-
-Este projeto contou com apoio de IA generativa (Claude, Anthropic) como assistente de programação em C# e na elaboração da documentação. Todas as decisões conceituais, de design e de arquitetura são de autoria humana, e todo o código foi revisado, testado e integrado pela equipe. A declaração completa, conforme o modelo CRediT-IA, encontra-se no relatório final do projeto.
-
----
 
 ## 📝 Contexto acadêmico
 
