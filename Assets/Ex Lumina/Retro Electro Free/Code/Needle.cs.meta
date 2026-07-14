@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 84e16c5322b8dd643a6310e54eba077b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138631
+  packageName: Retro Electro Free
+  packageVersion: 1.1
+  assetPath: Assets/Ex Lumina/Retro Electro Free/Code/Needle.cs
+  uploadId: 364234

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9de299b03105cd94bac0c3aa95da6d04
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138631
+  packageName: Retro Electro Free
+  packageVersion: 1.1
+  assetPath: Assets/Ex Lumina/Retro Electro Free/Editor/LoadPrefabs.cs
+  uploadId: 364234

@@ -1,0 +1,38 @@
+# ===== Unity: pastas geradas (o Unity recria tudo sozinho) =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Pasta de recuperação de crash do editor
+Assets/_Recovery*
+
+# ===== IDE / ferramentas =====
+.vs/
+.vscode/
+.idea/
+.codex
+.claude/
+*.csproj
+*.sln
+*.slnx
+*.user
+
+# ===== Arquivos enormes e redundantes (instaladores de asset pack) =====
+# São arquivos .unitypackage (>100 MB, acima do limite do GitHub) que vêm
+# dentro do pack MarpaStudio para outras pipelines; o conteúdo usável já
+# está (ou seria) importado em Assets. Continuam no disco, só fora do git.
+Assets/MarpaStudio/HDRP*
+Assets/MarpaStudio/URP*
+
+# ===== Sistema operacional =====
+.DS_Store
+Thumbs.db
+
+# Diretório vazio criado por engano
+bomb/

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5c26a892a22b01640bf20ef035b343d1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138631
+  packageName: Retro Electro Free
+  packageVersion: 1.1
+  assetPath: Assets/Ex Lumina/Retro Electro Free/Demos/Code/Off.cs
+  uploadId: 364234
